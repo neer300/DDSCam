@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to DDSCam</string>
+    <string name="app_name">DDSCamTest</string>
+    <string name="Ok_Toast">Successfully launched camera</string>
+    <string name="titleUsername">Username</string>
+    <string name="summaryUsername">Username for login</string>
+    <string name="titlePassword">Password</string>
+    <string name="summaryPassword">Password for login</string>
+    <string name="titleLocalstorage">Local storage</string>
+    <string name="summaryLocalStorage">Media stored locally on SD card</string>
+    <string name="titlePrefs">Preferences</string>
+    <string name="startAction">Capture</string>
+    <string name="stopAction">Stop</string>
+    <string name="startHint">Start Camera for live feed</string>
+    <string name="outputFile">/sdcard/test.3gp</string>
+    <string name="service">Connection Manager</string>
+
+</resources>
